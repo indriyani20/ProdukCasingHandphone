@@ -4,14 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Toko Online Sederhana</title>
+
     <link rel="stylesheet" href="diah1.css">
-    <style>
-        .stars {
-            cursor: pointer;
-            font-size: 24px;
-            color: gold;
-        }
-    </style>
+    https://github.com/indriyani20/ProdukCasingHandphone.git
 </head>
 <body>
     <header>
