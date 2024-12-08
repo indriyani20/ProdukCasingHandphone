@@ -9,7 +9,7 @@
   "@context": "http://www.schema.org",
   "@type": "Store",
   "name": "Diah Indriyani ",
-  "url": "https://indriyani20.github.io/ProdukCasingHandphone/",
+  "url": "https://github.com/indriyani20/ProdukCasingHandphone.git",
   "priceRange": "$",
   "address": {
      "@type": "PostalAddress",
